@@ -1,0 +1,4 @@
+include version.txt
+recrusive-include requirements *
+recrusive-include tests *.py
+recrusive-include src *
